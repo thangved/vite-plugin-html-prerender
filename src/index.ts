@@ -1,3 +1,3 @@
-import htmlPrerender from "./prerender";
+import htmlPrerender from './prerender';
 
 export { htmlPrerender };
